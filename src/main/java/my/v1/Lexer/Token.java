@@ -1,4 +1,4 @@
-package my.Lexer;
+package my.v1.Lexer;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

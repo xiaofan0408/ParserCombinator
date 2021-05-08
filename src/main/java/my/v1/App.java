@@ -1,8 +1,8 @@
-package my;
+package my.v1;
 
-import my.Lexer.Lexer;
-import my.Lexer.Token;
-import my.Lexer.TokenMap;
+import my.v1.Lexer.Lexer;
+import my.v1.Lexer.Token;
+import my.v1.Lexer.TokenMap;
 
 import java.util.List;
 

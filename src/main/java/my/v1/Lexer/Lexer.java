@@ -1,6 +1,6 @@
-package my.Lexer;
+package my.v1.Lexer;
 
-import my.utils.Pair;
+import my.v1.utils.Pair;
 
 import java.util.ArrayList;
 import java.util.List;
